@@ -6,4 +6,5 @@
 ## To activate this environment, use conda activate E:\Complete_python\mlproject\mlprovenv
 ## To initialize git, use git init
 ## Create README.md file
-## 
+## To add README.md file on git, use git add .\README.md
+## To commit changes on git, use git commit -m "First commit"
